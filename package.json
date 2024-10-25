@@ -12,7 +12,7 @@
     "markmap-common": "^0.14.2",
     "markmap-lib": "^0.14.4",
     "markmap-view": "^0.14.4",
-    "vue": "^2.6.14"
+    "vue": "^3.5.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^5.0.5",
